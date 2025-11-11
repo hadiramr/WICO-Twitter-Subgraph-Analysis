@@ -19,6 +19,7 @@ Community Detection (Louvain Algorithm)
 **Analysis Tasks**
 
 1- Individual Graph Analysis
+
 2- Comparative Analysis
 
 **Visualization Plan**
