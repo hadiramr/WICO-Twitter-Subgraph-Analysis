@@ -25,6 +25,7 @@ Community Detection (Louvain Algorithm)
 **Visualization Plan**
 
 Both networks visualized in Gephi using:
+
 ForceAtlas2 Layout
 Node Size: Degree Centrality
 Node Color: Community (Louvain modularity class)
