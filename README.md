@@ -18,10 +18,14 @@ Data Format:
 Metrics Computed:
 
 Degree Centrality
+
 Betweenness Centrality
+
 Average Clustering Coefficient
+
 Modularity (Q)
-Community Detection (Louvain Algorithm)
+
+Community Detection 
 
 **Analysis Tasks**
 
