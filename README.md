@@ -11,9 +11,7 @@ Tool:Gephi
 
 Data Format:.gexf 
 
-**Metrics Computed:
-**
-Degree Centrality
+Metrics Computed:Degree Centrality
 
 Betweenness Centrality
 
