@@ -7,9 +7,15 @@ The goal is to compare structural, behavioral, and visual properties of both net
 
 **Tools & Environment**
 
-Tool: Gephi
-Data Format: .gexf / .graphml
+Tool:
+
+Gephi
+
+Data Format:
+
+.gexf 
 Metrics Computed:
+
 Degree Centrality
 Betweenness Centrality
 Average Clustering Coefficient
