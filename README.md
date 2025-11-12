@@ -14,6 +14,7 @@ Gephi
 Data Format:
 
 .gexf 
+
 Metrics Computed:
 
 Degree Centrality
